@@ -14,8 +14,7 @@ alongside my studies.
   using Suricata on Raspberry Pi 4 with a Cisco Catalyst 2960 switch
 - **Pi 5 projects** — building out a personal project portfolio
   as new hardware arrives
-- **Spot SDK** — custom autonomy scripts for Boston Dynamics
-  Spot at the university robotics department
+- **Spot SDK** — custom autonomy scripts for Boston Dynamics Spot
 
 ---
 
@@ -44,8 +43,8 @@ alongside my studies.
 
 | Project | Description | Stack |
 |---|---|---|
-| [SafeHaven](https://github.com/MursheenDurkin/SafeHaven-PI) | Pi-based network security system — firewall, VPN, IDS, dashboard | Python, Flask, nftables, WireGuard |
-| [Final Year IDS](https://github.com/MursheenDurkin/final-year-ids-project) | Intrusion detection system with Suricata on Pi 4 + Cisco 2960 | Python, Suricata, Cisco IOS |
+| [SafeHaven](https://github.com/MursheenDurkin/SafeHaven-PI) | Pi-based network security system — firewall, VPN, IDS, dashboard. **Private repository — going public 8th May 2025** | Python, Flask, nftables, WireGuard |
+| [Anomaly-Based IDS](https://github.com/MursheenDurkin/Anomaly-Based-Intrusion-Detection-System) | IDS/packet capture station with Suricata on Pi 4 + Cisco 2960 | Python, Suricata, Cisco IOS |
 | [Network Programmability](https://github.com/MursheenDurkin/Network-Programmability-ACCB5029-) | Network automation and programmability coursework | Python |
 | [Pizza](https://github.com/MursheenDurkin/Pizza) | Speech recognition project — lecturer kept saying pizza | Python, pyaudio |
 
