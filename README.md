@@ -49,7 +49,7 @@ whatever lands on the Pi next.
 | Project | Description | Stack |
 |---|---|---|
 | [SafeHaven](https://github.com/MursheenDurkin/SafeHaven-PI) | Pi-based network security system — firewall, VPN, IDS, dashboard | Python, Flask, nftables, WireGuard |
-| [Dewi & Owain — Esports Bots](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki) | Two self-hosted Discord bots for a university esports society, named after Boston Dynamics robots. Spot handles server management; Atlas runs competitive operations. Code private — full docs on the wiki | Python, discord.py, SQLite |
+| [Dewi & Owain — Esports Bots](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki) | Two self-hosted Discord bots for a university esports society, named after figures from Welsh history. Dewi handles server management; Owain runs competitive operations. Code private — full docs on the wiki | Python, discord.py, SQLite |
 | [Anomaly-Based IDS](https://github.com/MursheenDurkin/Anomaly-Based-Intrusion-Detection-System) | Suricata IDS on Pi 4 + Cisco 2960 with SPAN port config | Python, Suricata, Cisco IOS |
 | [Network Programmability](https://github.com/MursheenDurkin/Network-Programmability-ACCB5029-) | Network automation and programmability coursework | Python |
 | [Pizza](https://github.com/MursheenDurkin/Pizza) | Speech recognition project — lecturer kept saying pizza | Python, pyaudio |
