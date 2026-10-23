@@ -1,6 +1,6 @@
 # Hi, I'm Durkin
 
-Cyber Security and Networking graduate (BSc (Hons), University of Wales Trinity Saint David, 2026). I build practical security and automation tools, mostly on Linux and Raspberry Pi: network defence systems, Discord bots that replace paid services, and robotics scripts. I like projects that solve a real problem for real people and then keep running without me.
+Cyber Security and Networking graduate (BSc (Hons), 2026). I build practical security and automation tools, mostly on Linux and Raspberry Pi: network defence systems, Discord bots that replace paid services, and robotics scripts. I like projects that solve a real problem for real people and then keep running without me.
 
 Open to entry-level IT support, service desk and junior security roles.
 
