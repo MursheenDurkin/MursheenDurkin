@@ -8,9 +8,20 @@ Open to entry-level IT support, service desk and junior security roles.
 
 ## Highlights
 
-- **SafeHaven Pi**: a portable, open-source network security device built from the ground up on a Raspberry Pi 5. Eight integrated layers (encrypted hotspot, nftables firewall, WireGuard VPN, Pi-hole DNS filtering, Suricata IDS, Fail2ban, Cowrie honeypot, Flask dashboard) with four operating modes. Submitted to a university hackathon in May 2026 and still in active development.
-- **Dewi and Owain**: two self-hosted Discord bots for a university esports society, named after figures from Welsh history. Dewi runs verification, tickets, events, moderation and a committee web dashboard; Owain runs rank tracking, player registration, rosters, tournaments and tryouts. Deployed on Railway with PostgreSQL; they replaced every third-party bot the society used.
-- **Anomaly-Based Intrusion Detection System**: final-year dissertation. A hybrid machine-learning IDS combining XGBoost and a deep autoencoder through weighted voting, fed by Suricata on a Raspberry Pi 4 mirroring traffic from a Cisco Catalyst 2960 SPAN port.
+**SafeHaven Pi**: a portable, open-source network security device built from the ground up on a Raspberry Pi 5
+- Eight integrated layers: encrypted hotspot, nftables firewall, WireGuard VPN, Pi-hole DNS filtering, Suricata IDS, Fail2ban, Cowrie honeypot and a Flask dashboard
+- Four operating modes (Traveler, Activist/Journalist, Business, Relaxed) with a first-run setup wizard
+- Submitted to a university hackathon in May 2026; still in active development
+
+**Dewi and Owain**: two self-hosted Discord bots for a university esports society, named after figures from Welsh history
+- Dewi: verification, support tickets, events, giveaways, moderation and a committee web dashboard
+- Owain: rank tracking, player registration, rosters, tournaments, practice and tryouts
+- Deployed on Railway with PostgreSQL; replaced every third-party bot the society used
+
+**Anomaly-Based Intrusion Detection System**: final-year dissertation
+- Hybrid machine-learning IDS combining XGBoost and a deep autoencoder through weighted voting
+- Detects both known and previously unseen attacks on live traffic
+- Suricata on a Raspberry Pi 4 fed by a Cisco Catalyst 2960 SPAN port
 
 ---
 
